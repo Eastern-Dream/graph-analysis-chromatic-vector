@@ -21,3 +21,36 @@ chromatic vector but there has not been any publication that hints at what would
 graph yields the largest chromatic vector. Thus, we would like to ask and potentially
 answers the question “Which graphs have biggest chromatic polynomials for a given
 number of vertices and edges?”.
+
+# Methodology
+
+### Python Packages and Methods
+
+For this research project, I used the following Python packages:
+
+- Pandas: for data manipulation and analysis.
+- NetworkX: for graph theory and graph operations.
+- NumPy: for data manipulation and matrix operations.
+- SciPy: for statistical computations.
+- Matplotlib: for graph visualization.
+
+### Code Outline
+
+The code for my research project will accomplish the following tasks:
+
+1. Load and preprocess the dataset of connected graphs up to order 9 using Pandas.
+2. Sort the dataset by the chromatic vector and group it by vertices and edges using Pandas.
+3. Utilize NetworkX in conjunction with Pandas to calculate and add the following graph properties to the dataset:
+   - Number of spanning tree
+   - Number of biconnected components
+   - Number of 3-cycles
+   - Number of 4-cycles
+   - Number of 5-cycles
+   - Number of 6-cycles
+   - Number of spanning trees
+   - Degree sequence
+   - Degree variance
+   - Degree deviation
+4. Utilize Pandas to analyze the dataset and identify the graphs that yield the largest chromatic vectors in their respective groups.
+5. Statistical analysis using Pandas and SciPy to calculate the percentile rank of maximum chromatic vector graph properties versus other non-max graphs within their group.
+6. Visualize graphs and results using NetworkX in conjunction with Matplotlib for data visualization.
