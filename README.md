@@ -54,3 +54,5 @@ The code for my research project will accomplish the following tasks:
 4. Utilize Pandas to analyze the dataset and identify the graphs that yield the largest chromatic vectors in their respective groups.
 5. Statistical analysis using Pandas and SciPy to calculate the percentile rank of maximum chromatic vector graph properties versus other non-max graphs within their group.
 6. Visualize graphs and results using NetworkX in conjunction with Matplotlib for data visualization.
+
+Please also check out the [presentation](Presentation.pdf) for more information
