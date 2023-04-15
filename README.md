@@ -1,5 +1,5 @@
 # About
-This is the repository containing all codes, original and transformed datasets, and result of my FMU Undergraduate Mathematics Capstone Research Project.
+This is the repository containing all codes, original and transformed datasets, and result of my FMU Undergraduate Mathematics Capstone Research Project. Please check out the [presentation](Presentation.pdf) for more information.
 
 # Background
 In graph theory, the chromatic polynomial of a graph is a polynomial that counts the
@@ -54,5 +54,3 @@ The code for my research project will accomplish the following tasks:
 4. Utilize Pandas to analyze the dataset and identify the graphs that yield the largest chromatic vectors in their respective groups.
 5. Statistical analysis using Pandas and SciPy to calculate the percentile rank of maximum chromatic vector graph properties versus other non-max graphs within their group.
 6. Visualize graphs and results using NetworkX in conjunction with Matplotlib for data visualization.
-
-Please also check out the [presentation](Presentation.pdf) for more information
