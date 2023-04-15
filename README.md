@@ -1,5 +1,5 @@
-# analyze-chromatic-vector
-FMU Undergraduate Mathematics Capstone Research Project
+# About
+This is the repository containing all codes, original and transformed datasets, and result of my FMU Undergraduate Mathematics Capstone Research Project.
 
 # Background
 In graph theory, the chromatic polynomial of a graph is a polynomial that counts the
