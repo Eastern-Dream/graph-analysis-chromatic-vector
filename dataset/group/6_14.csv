@@ -1,0 +1,2 @@
+Index,G6id,Vertices,Edges,Vector,SpanningTree,Biconnection,3-cycle,4-cycle,5-cycle,6-cycle,Degree,Variance,Deviation,Maximum
+139,E^~w,6,14,"(1, 14, 75, 190, 224, 96, 0, 0, 0)",864,1,16,15,6,1,"(4, 4, 5, 5, 5, 5)",0.2222,0.4714,True

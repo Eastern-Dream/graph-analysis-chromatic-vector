@@ -1,0 +1,2 @@
+Index,G6id,Vertices,Edges,Vector,SpanningTree,Biconnection,3-cycle,4-cycle,5-cycle,6-cycle,Degree,Variance,Deviation,Maximum
+273190,H~~~~~~,9,36,"(1, 36, 546, 4536, 22449, 67284, 118124, 109584, 40320)",4782969,1,84,126,126,84,"(8, 8, 8, 8, 8, 8, 8, 8, 8)",0.0,0.0,True

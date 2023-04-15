@@ -1,0 +1,2 @@
+Index,G6id,Vertices,Edges,Vector,SpanningTree,Biconnection,3-cycle,4-cycle,5-cycle,6-cycle,Degree,Variance,Deviation,Maximum
+992,F^~~w,7,20,"(1, 20, 160, 650, 1399, 1490, 600, 0, 0)",12005,1,30,35,21,7,"(5, 5, 6, 6, 6, 6, 6)",0.2041,0.4518,True
